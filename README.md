@@ -6,5 +6,4 @@
   
 </a>
 </div>
-
-![Snake animation](https://github.com/FraterOzymandias/FraterOzymandias/blob/output/github-contribution-grid-snake.svg)
+!Snake animation](https://github.com/FraterOzymandias/FraterOzymandias/blob/output/github-contribution-grid-snake.svg)
