@@ -1,7 +1,7 @@
 <div>
 
   <h1 align="center">
-    Oi Tudo bem? Eu sou o 
+    Eu sou o 
     <a href="https://www.linkedin.com/in/erick-godoy-00914043/">Erick Godoy (F_Ozy) 😃️</a>
   </h1>
   
